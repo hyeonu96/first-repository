@@ -1,2 +1,2 @@
-# first-repository
+# AIFFEL 
 첫생성
